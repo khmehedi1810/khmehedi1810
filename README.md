@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khmehedi1810
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning GO Lang
 - 💞️ I’m looking to collaborate on new technology
 - 📫 How to reach me (khmehedi1810) - google it.
 
